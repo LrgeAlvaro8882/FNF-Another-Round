@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf hedgehog 2.png">
+<SubTexture name="bf hedgehog 2 idle0000" x="518" y="0" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0001" x="801" y="0" width="284" height="314" frameX="-304" frameY="-184" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0002" x="559" y="668" width="279" height="302" frameX="-314" frameY="-196" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0003" x="0" y="668" width="278" height="309" frameX="-309" frameY="-189" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0004" x="801" y="314" width="282" height="314" frameX="-304" frameY="-184" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0005" x="0" y="351" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0006" x="283" y="351" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0007" x="283" y="351" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0008" x="283" y="351" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 idle0009" x="283" y="351" width="283" height="317" frameX="-302" frameY="-181" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 left0000" x="656" y="977" width="366" height="276" frameX="-226" frameY="-222" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 left0001" x="0" y="977" width="350" height="296" frameX="-242" frameY="-202" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 down0000" x="350" y="977" width="306" height="284" frameX="-301" frameY="-214" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 down0001" x="1085" y="0" width="287" height="300" frameX="-306" frameY="-198" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 up0000" x="0" y="0" width="253" height="351" frameX="-332" frameY="-147" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 up0001" x="253" y="0" width="265" height="341" frameX="-330" frameY="-157" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 right0000" x="1085" y="300" width="287" height="296" frameX="-368" frameY="-202" frameWidth="886" frameHeight="498" />
+<SubTexture name="bf hedgehog 2 right0001" x="278" y="668" width="281" height="307" frameX="-362" frameY="-191" frameWidth="886" frameHeight="498" />
+</TextureAtlas>

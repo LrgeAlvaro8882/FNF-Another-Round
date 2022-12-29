@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				162,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sunky halloween left"
+		},
+		{
+			"offsets": [
+				-114,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sunky halloween down"
+		},
+		{
+			"offsets": [
+				7,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sunky halloween up"
+		},
+		{
+			"offsets": [
+				-85,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sunky halloween right"
+		},
+		{
+			"offsets": [
+				107,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "sunky halloween risa"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunky halloween idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunky halloween",
+	"position": [
+		-150,
+		260
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		79,
+		255
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

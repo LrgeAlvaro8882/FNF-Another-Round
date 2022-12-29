@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggman.png">
+<SubTexture name="eggman moving0000" x="0" y="0" width="506" height="903" frameX="-1131" frameY="-252" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="eggman moving0001" x="506" y="0" width="509" height="903" frameX="-1132" frameY="-252" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="eggman moving0002" x="1015" y="0" width="511" height="903" frameX="-1134" frameY="-252" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="eggman moving0003" x="1526" y="0" width="509" height="903" frameX="-1143" frameY="-252" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="eggman moving0004" x="0" y="903" width="513" height="903" frameX="-1138" frameY="-252" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

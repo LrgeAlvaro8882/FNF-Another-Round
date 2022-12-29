@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bf hedgehog left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bf hedgehog down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				27
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bf hedgehog up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bf hedgehog right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bf hedgehog idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf hedgehog old",
+	"position": [
+		-750,
+		-120
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-530,
+		450
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

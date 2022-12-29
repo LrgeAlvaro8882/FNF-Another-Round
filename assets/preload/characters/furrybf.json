@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bf-hedgehog left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bf-hedgehog down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				9
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bf-hedgehog up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bf-hedgehog right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-hedgehog idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "bf-hedgehog miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "bf-hedgehog miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "bf-hedgehog miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "bf-hedgehog miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-hedgehog",
+	"position": [
+		-820,
+		-180
+	],
+	"healthicon": "bf-hedgehog",
+	"flip_x": true,
+	"healthbar_colors": [
+		78,
+		165,
+		234
+	],
+	"camera_position": [
+		-330,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

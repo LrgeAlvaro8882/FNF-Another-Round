@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="susWindow.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuck u0009" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0009" x="964" y="5" width="638" height="313" frameX="0" frameY="-62" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0008" x="5" y="323" width="516" height="392" frameX="-43" frameY="0" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0007" x="5" y="323" width="516" height="392" frameX="-43" frameY="0" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0006" x="526" y="323" width="483" height="247" frameX="-100" frameY="-71" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0005" x="526" y="323" width="483" height="247" frameX="-100" frameY="-71" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0004" x="1014" y="323" width="475" height="234" frameX="-91" frameY="-50" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0003" x="1014" y="323" width="475" height="234" frameX="-91" frameY="-50" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0002" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0001" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="get the fuck out0000" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0000" x="964" y="5" width="638" height="313" frameX="0" frameY="-62" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0001" x="5" y="323" width="516" height="392" frameX="-43" frameY="0" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0002" x="5" y="323" width="516" height="392" frameX="-43" frameY="0" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0003" x="526" y="323" width="483" height="247" frameX="-100" frameY="-71" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0004" x="526" y="323" width="483" height="247" frameX="-100" frameY="-71" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0005" x="1014" y="323" width="475" height="234" frameX="-91" frameY="-50" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0006" x="1014" y="323" width="475" height="234" frameX="-91" frameY="-50" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0007" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0008" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="hello0009" x="1494" y="323" width="466" height="235" frameX="-96" frameY="-48" frameWidth="638" frameHeight="392"/>
+	<SubTexture name="no0000" x="5" y="720" width="638" height="313"/>
+</TextureAtlas>

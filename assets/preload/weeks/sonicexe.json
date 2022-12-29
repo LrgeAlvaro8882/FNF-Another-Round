@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Round 2", "exe", [0, 19, 153]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "ginger",
+
+	"storyName": "The god of this world",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard"
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunkyGF.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="710" height="826" frameX="-1" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0001" x="710" y="0" width="710" height="826" frameX="-4" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0002" x="1420" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0003" x="2130" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0004" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0005" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0006" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0007" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0008" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0009" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0010" x="0" y="826" width="710" height="826" frameX="0" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0011" x="710" y="826" width="710" height="826" frameX="-3" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0012" x="1420" y="826" width="710" height="826" frameX="-5" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0013" x="2130" y="826" width="710" height="826" frameX="-5" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0014" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0015" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0016" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0017" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0018" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+	<SubTexture name="dance0019" x="2840" y="0" width="710" height="826" frameX="-6" frameY="0" frameWidth="716" frameHeight="826"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="literally what.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="what0000" x="5" y="5" width="522" height="696" frameX="-37" frameY="-14" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0001" x="5" y="5" width="522" height="696" frameX="-37" frameY="-14" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0002" x="532" y="5" width="555" height="683" frameX="-24" frameY="-26" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0003" x="532" y="5" width="555" height="683" frameX="-24" frameY="-26" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0004" x="1092" y="5" width="600" height="651" frameX="-6" frameY="-56" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0005" x="1092" y="5" width="600" height="651" frameX="-6" frameY="-56" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0006" x="5" y="706" width="617" height="638" frameX="0" frameY="-68" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0007" x="5" y="706" width="617" height="638" frameX="0" frameY="-68" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0008" x="5" y="706" width="617" height="638" frameX="0" frameY="-68" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0009" x="5" y="706" width="617" height="638" frameX="0" frameY="-68" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0010" x="1092" y="5" width="600" height="651" frameX="-6" frameY="-56" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0011" x="1092" y="5" width="600" height="651" frameX="-6" frameY="-56" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0012" x="532" y="5" width="555" height="683" frameX="-24" frameY="-26" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0013" x="532" y="5" width="555" height="683" frameX="-24" frameY="-26" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0014" x="5" y="5" width="522" height="696" frameX="-37" frameY="-14" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0015" x="5" y="5" width="522" height="696" frameX="-37" frameY="-14" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0016" x="627" y="706" width="502" height="711" frameX="-45" frameY="0" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0017" x="627" y="706" width="502" height="711" frameX="-45" frameY="0" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0018" x="627" y="706" width="502" height="711" frameX="-45" frameY="0" frameWidth="617" frameHeight="711"/>
+	<SubTexture name="what0019" x="627" y="706" width="502" height="711" frameX="-45" frameY="0" frameWidth="617" frameHeight="711"/>
+</TextureAtlas>

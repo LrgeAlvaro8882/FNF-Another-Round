@@ -1,0 +1,13 @@
+{
+	"directory": "illegalinstruction",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [1000, 200],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100],
+
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-300, -80]
+}

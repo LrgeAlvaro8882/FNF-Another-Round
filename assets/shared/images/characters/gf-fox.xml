@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf-fox.png">
+<SubTexture name="gf-fox gf fox vibing0000" x="3887" y="0" width="782" height="1276" frameX="-837" frameY="-57" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0001" x="3087" y="0" width="800" height="1314" frameX="-822" frameY="-19" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0002" x="771" y="1320" width="783" height="1318" frameX="-843" frameY="-15" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0003" x="0" y="0" width="773" height="1320" frameX="-855" frameY="-13" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0004" x="773" y="0" width="771" height="1320" frameX="-857" frameY="-13" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0005" x="1544" y="0" width="770" height="1320" frameX="-858" frameY="-13" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0006" x="3887" y="1276" width="782" height="1276" frameX="-837" frameY="-57" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0007" x="3087" y="1314" width="800" height="1314" frameX="-822" frameY="-19" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0008" x="1554" y="1320" width="783" height="1318" frameX="-843" frameY="-15" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0009" x="2314" y="0" width="773" height="1320" frameX="-855" frameY="-13" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0010" x="0" y="1320" width="771" height="1320" frameX="-857" frameY="-13" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="gf-fox gf fox vibing0011" x="1544" y="0" width="770" height="1320" frameX="-858" frameY="-13" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
